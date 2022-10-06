@@ -1,3 +1,3 @@
 # dst-wx91
 
-A Don't Starve Together mod featuring an upraded WX-78, WX-91. :robot:
+A Don't Starve Together mod featuring WX-78's younger brother, WX-91. Better in every way.
